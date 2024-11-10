@@ -13,7 +13,11 @@
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh-MeHeDii&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-MeHeDii&layout=compact&theme=radical)
 
+### Languages and Tools:
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-MeHeDii&theme=dark)](https://git.io/streak-stats)
 
  
 <!--
