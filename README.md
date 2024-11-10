@@ -1,5 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mehedi Hasan! 👋
 
+🎓 I'm an undergraduate student in the **Computer Science and Engineering (CSE)** department at the **University of Dhaka**.
+
+🌱 I’m passionate about learning new technologies and building innovative projects in Java and Python.
+
+🔭 Currently exploring: GUI applications, Game Development.
+
+📫 Connect with me on | [Facebook]((https://www.facebook.com/profile.php?id=100066649462473))
+
+⚡ Fun fact: (I like gaming but what if that made by me :") )
+
+
+ 
 <!--
 **mh-MeHeDii/mh-MeHeDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
