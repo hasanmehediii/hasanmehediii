@@ -10,6 +10,10 @@
 
 ⚡ Fun fact: (I like gaming but what if that made by me :") )
 
+![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh-MeHeDii &show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mh-MeHeDii &layout=compact&theme=radical)
+
+
 
  
 <!--
