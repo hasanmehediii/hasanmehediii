@@ -19,7 +19,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mh-MeHeDii&theme=dark)](https://git.io/streak-stats)
 
 
 <!--
