@@ -6,7 +6,7 @@
 
 🔭 Currently exploring: GUI applications, Game Development.
 
-📫 Connect with me on | [Facebook](https://www.facebook.com/profile.php?id=100066649462473)
+📫 Connect with me on | [Facebook](https://www.facebook.com/profile.php?id=100066649462473) [Instagram](https://www.instagram.com/meh._.edii) 
 
 ⚡ Fun fact: (I like gaming but what if that made by me :") )
 
