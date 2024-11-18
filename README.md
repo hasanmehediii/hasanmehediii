@@ -8,7 +8,7 @@
 
 📫 Connect with me on | [Facebook](https://www.facebook.com/profile.php?id=100066649462473) [Instagram](https://www.instagram.com/meh._.edii) 
 
-⚡ Fun fact: (I like gaming but what if that made by me :") )
+⚡ Fun fact: I like gaming but what if that made by me :") 
 
 ![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mh-MeHeDii&show_icons=true&theme=radical)
 
