@@ -1,9 +1,7 @@
 # Hi, I'm Mehedi Hasan! 👋
 
 🎓 I'm an undergraduate student in the **Computer Science and Engineering (CSE)** department at the **University of Dhaka**.
-
 🌱 I’m passionate about learning new technologies and building innovative projects in Java and Python.
-
 🔭 Currently exploring: GUI applications, Game Development.
 
 📫 Connect with me on | [Facebook ID1](https://www.facebook.com/profile.php?id=100066649462473) [Facebook ID2](https://www.facebook.com/profile.php?id=100027011960450) [Instagram](https://www.instagram.com/meh._.edii) 
@@ -19,18 +17,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical)
-
-<!--
-**mh-MeHeDii/mh-MeHeDii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
