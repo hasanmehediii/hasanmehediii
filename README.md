@@ -1,7 +1,9 @@
 # Hi, I'm Mehedi Hasan! 👋
 
 🎓 I'm an undergraduate student in the **Computer Science and Engineering (CSE)** department at the **University of Dhaka**.
+
 🌱 I’m passionate about learning new technologies and building innovative projects in Java and Python.
+
 🔭 Currently exploring: GUI applications, Game Development.
 
 📫 Connect with me on | [Facebook ID1](https://www.facebook.com/profile.php?id=100066649462473) [Facebook ID2](https://www.facebook.com/profile.php?id=100027011960450) [Instagram](https://www.instagram.com/meh._.edii) 
