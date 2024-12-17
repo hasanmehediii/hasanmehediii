@@ -5,11 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Code GIF" width="400"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programming Animation GIF" width="400"/>
 </p>
-
-
-
 
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
