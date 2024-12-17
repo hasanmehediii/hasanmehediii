@@ -4,9 +4,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding in Progress GIF" width="400"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programming Animation GIF" width="400"/>
-</p>
 
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
@@ -70,7 +67,7 @@ I am currently diving deeper into:
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="400"/>
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Internet Bard ChatGPT GIF" width="400"/>
 </p>
 
 ---
