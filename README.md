@@ -46,6 +46,11 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white" alt="Pygame" />
+  <img src="https://img.shields.io/badge/SDL2-283593?style=for-the-badge&logo=SDL&logoColor=white" alt="SDL2" />
+  <img src="https://img.shields.io/badge/LibGDX-4C92FF?style=for-the-badge&logo=LibGDX&logoColor=white" alt="LibGDX" />
+  <img src="https://img.shields.io/badge/JavaFX-2C3E50?style=for-the-badge&logo=Java&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
 </p>
 
 ---
