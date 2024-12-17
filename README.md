@@ -1,6 +1,9 @@
 # Hi, I'm Mehedi Hasan! 👋
 
-![Hello GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" width="400"/>
+</p>
+
 
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
