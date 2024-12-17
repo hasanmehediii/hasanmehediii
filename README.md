@@ -21,7 +21,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 ## 🌱 About Me:
 - 🔭 **Currently Exploring**:  
-  ![Game Development](https://img.shields.io/badge/Game_Development-%2300ff00.svg?style=flat-square)  
+  ![Game Development](https://img.shields.io/badge/Game_Development-%230000ff.svg?style=flat-square)  
   ![GUI Applications](https://img.shields.io/badge/GUI_Applications-%230000ff.svg?style=flat-square)
 
 - ⚡ **Fun Fact**:  
@@ -33,8 +33,6 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="Mehedi's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-mehedii&theme=radical" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
@@ -61,7 +59,7 @@ Check out my repositories for more exciting projects 🚀!
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
 
 I am currently diving deeper into:  
-- **Java Spring Boot**  
+- **JavaFX**  
 - **LibGDX**  
 - **Object-Oriented Programming Concepts**  
 
