@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding in Progress GIF" width="400"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer at Work GIF" width="400"/>
 </p>
+
 
 
 🎓 **Undergraduate Student**  
