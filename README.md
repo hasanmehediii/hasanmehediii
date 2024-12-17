@@ -1,7 +1,7 @@
 # Hi, I'm Mehedi Hasan! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Hacker in the Dark GIF" width="400"/>
+  <img src="https://media.giphy.com/media/1oF1KAEYvmXB4/giphy.gif" alt="Hacker in the Dark GIF" width="400"/>
 </p>
 
 
