@@ -1,7 +1,7 @@
 # Hi, I'm Mehedi Hasan! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding in Progress GIF" width="400"/>
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" alt="Programmer Pizza Ninjas GIF" width="400"/>
 </p>
 
 
