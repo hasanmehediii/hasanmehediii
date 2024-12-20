@@ -42,7 +42,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 ## ⚒️ Languages and Tools:
 
-<p align="center">
+p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -51,6 +51,8 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <img src="https://img.shields.io/badge/LibGDX-4C92FF?style=for-the-badge&logo=LibGDX&logoColor=white" alt="LibGDX" />
   <img src="https://img.shields.io/badge/JavaFX-2C3E50?style=for-the-badge&logo=Java&logoColor=white" alt="JavaFX" />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 ---
