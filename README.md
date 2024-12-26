@@ -16,15 +16,26 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ## 🌐 Connect With Me:
 
 <p align="center">
- <a href="https://linkedin.com"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /> </a>
- <a href="https://www.facebook.com/profile.php?id=100066649462473"> <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" /> </a> 
- <a href="https://www.facebook.com/profile.php?id=100027011960450"> <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" /> </a>
- <a href="https://instagram.com"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /> </a>
+  <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100066649462473">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 1" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100027011960450">
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
+  </a>
+  <a href="https://x.com/MehediHasa47803">
+    <img src="https://img.icons8.com/color/48/000000/x.png" alt="X" />
+  </a>
+  <a href="https://instagram.com/meh._.edii">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@MHmeHeDi_22">
+    <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" />
+  </a>
 </p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066649462473)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027011960450)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meh._.edii)
 
 ---
 
