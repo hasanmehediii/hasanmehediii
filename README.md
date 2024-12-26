@@ -35,28 +35,8 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   </a>
 </p>
 
-
 ---
 
-## 🌱 About Me:
-- 🔭 **Currently Exploring**:  
-  ![Game Development](https://img.shields.io/badge/Game_Development-%230000ff.svg?style=flat-square)  
-  ![GUI Applications](https://img.shields.io/badge/GUI_Applications-%230000ff.svg?style=flat-square)
-
-- ⚡ **Fun Fact**:  
-  I love gaming! Imagine the thrill of playing a game made by **me**! 🎮✨
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="Mehedi's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## ⚒️ Languages and Tools:
 
@@ -89,6 +69,27 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <a href="https://isocpp.org/">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
+</p>
+
+
+---
+
+## 🌱 About Me:
+- 🔭 **Currently Exploring**:  
+  ![Game Development](https://img.shields.io/badge/Game_Development-%230000ff.svg?style=flat-square)  
+  ![GUI Applications](https://img.shields.io/badge/GUI_Applications-%230000ff.svg?style=flat-square)
+
+- ⚡ **Fun Fact**:  
+  I love gaming! Imagine the thrill of playing a game made by **me**! 🎮✨
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="Mehedi's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
