@@ -78,10 +78,10 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="SDL2" />
   </a>
   <a href="https://libgdx.com/">
-    <img src="https://libgdx.com/assets/images/libgdx-logo.png" alt="LibGDX" width="48" height="48" style="border-radius:50%;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/LibGDX_Logo.svg/512px-LibGDX_Logo.svg.png" alt="LibGDX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://openjfx.io/">
-    <img src="https://openjfx.io/assets/images/openjfx-logo.png" alt="JavaFX" width="48" height="48" style="border-radius:50%;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JavaFX_Logo.png/600px-JavaFX_Logo.png" alt="JavaFX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://html.com/">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
@@ -93,6 +93,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
 </p>
+
 
 ---
 
