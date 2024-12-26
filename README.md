@@ -26,7 +26,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
   </a>
   <a href="https://x.com/MehediHasa47803">
-    <img src="icon8-x-logo-48.png" alt="X" />
+    <img src="https://icons8.com/icon/fJp7hepMryiw/twitterx" alt="X" />
   </a>
   <a href="https://instagram.com/meh._.edii">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
