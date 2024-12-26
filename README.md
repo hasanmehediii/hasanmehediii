@@ -17,24 +17,25 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100066649462473">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 1" />
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook 1" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100027011960450">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook 2" />
   </a>
   <a href="https://x.com/MehediHasa47803">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/x-logo.png" alt="X" />
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X" />
   </a>
   <a href="https://instagram.com/meh._.edii">
-    <img src="https://img.icons8.com/fluency-systems-filled/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@MHmeHeDi_22">
-    <img src="https://img.icons8.com/fluency/48/000000/youtube-play.png" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
 </p>
+
 
 
 
