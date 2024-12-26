@@ -81,7 +81,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://raw.githubusercontent.com/libgdx/libgdx/master/tests/gdx-tests-android/assets/data/badlogic.jpg" alt="LibGDX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://openjfx.io/">
-    <img src="https://download.java.net/general/openjfx/logo/javafx-logo.png" alt="JavaFX" width="48" height="48" style="border-radius:50%;" />
+    <img src="https://www.oracle.com/webfolder/s/dyn/cross_life/images/javafx_logo_white_small.png" alt="JavaFX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://html.com/">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
