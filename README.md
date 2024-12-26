@@ -29,7 +29,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X" />
   </a>
   <a href="https://instagram.com/meh._.edii">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meh._.edii" height="40" width="40" />
   </a>
   <a href="https://www.youtube.com/@MHmeHeDi_22">
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
