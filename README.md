@@ -20,10 +20,10 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100066649462473">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook 1" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 1" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100027011960450">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook 2" />
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
   </a>
   <a href="https://x.com/MehediHasa47803">
     <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X" />
