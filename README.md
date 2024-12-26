@@ -17,7 +17,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-146a77307" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-146a77307" height="35" width="40"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100066649462473">
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 1" />
