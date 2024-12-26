@@ -1,9 +1,8 @@
 # Hi, I'm Mehedi Hasan! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif" alt="Programmer Pizza Ninjas GIF" width="400"/>
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Internet Bard ChatGPT GIF" width="400"/>
 </p>
-
 
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
@@ -107,12 +106,6 @@ I am currently diving deeper into:
 - **JavaFX**  
 - **LibGDX**  
 - **Object-Oriented Programming Concepts**  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Internet Bard ChatGPT GIF" width="400"/>
-</p>
 
 ---
 
