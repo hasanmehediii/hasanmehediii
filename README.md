@@ -5,11 +5,15 @@
 </p>
 
 
+<p align="center">
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
+</p>
 
+<p align="center">
 🌟 **Passionate Learner**  
 I'm driven by curiosity to explore and innovate in **Game Development**, **GUI Applications**, and building impactful projects in **Java** and **Python**.
+</p>
 
 ---
 
