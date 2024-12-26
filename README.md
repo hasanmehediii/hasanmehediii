@@ -26,7 +26,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
   </a>
   <a href="https://x.com/MehediHasa47803">
-    <img src="https://img.icons8.com/?size=100&id=jlpBF1fJe9fs&format=png&color=000000" alt="X" />
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="X" style="background-color:#000; border-radius:5px;" />
   </a>
   <a href="https://instagram.com/meh._.edii">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" />
@@ -35,6 +35,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
   </a>
 </p>
+
 
 
 
