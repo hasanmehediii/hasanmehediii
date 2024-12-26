@@ -72,16 +72,16 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
   </a>
   <a href="https://www.pygame.org/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/game-controller.png" alt="Pygame" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Pygame_logo.png" alt="Pygame" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://libsdl.org/">
     <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="SDL2" />
   </a>
   <a href="https://libgdx.com/">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-libgdx-a-cross-platform-java-game-development-framework-logo-color-tal-revivo.png" alt="LibGDX" />
+    <img src="https://libgdx.com/favicon.ico" alt="LibGDX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://openjfx.io/">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-java-cryptocurrency-flat-flat-juicy-fish.png" alt="JavaFX" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/OpenJFX_Logo.png" alt="JavaFX" width="48" height="48" style="border-radius:50%;" />
   </a>
   <a href="https://html.com/">
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
@@ -93,7 +93,6 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
 </p>
-
 
 ---
 
