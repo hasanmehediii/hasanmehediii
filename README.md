@@ -95,9 +95,11 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ---
 
 ## 🏆 GitHub Achievements:
-![GitHub followers](https://img.shields.io/github/followers/hasan-mehedii?style=flat-square)
-![GitHub Stars](https://img.shields.io/github/stars/hasan-mehedii?style=flat-square)
-![GitHub Repos](https://img.shields.io/github/repo-count/hasan-mehedii?style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii)
+[![GitHub Stars](https://img.shields.io/github/stars/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii?tab=stars)
+[![GitHub Repos](https://img.shields.io/github/repo-count/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii?tab=repositories)
+[![GitHub Contributions](https://img.shields.io/github/contributors/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii)
+[![GitHub Commits](https://img.shields.io/github/commits-since/hasan-mehedii/hasan-mehedii/master?style=flat-square)](https://github.com/hasan-mehedii)
 
 ---
 
