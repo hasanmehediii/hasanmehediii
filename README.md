@@ -94,9 +94,20 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 ---
 
+## 🏆 GitHub Achievements:
+![GitHub followers](https://img.shields.io/github/followers/hasan-mehedii?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/hasan-mehedii?style=flat-square)
+![GitHub Repos](https://img.shields.io/github/repo-count/hasan-mehedii?style=flat-square)
+
+---
+
 ## 🛠️ Projects:
 Check out my repositories for more exciting projects 🚀!  
-[![My GitHub Repos](https://img.shields.io/badge/My_Repositories-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasan-mehedii?tab=repositories)
+[![My GitHub Repos](https://img.shields.io/badge/My_Repositories-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan-mehedii?tab=repositories)
+
+### 🔹 Current Projects:
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF9A00.svg?style=flat-square&logo=java&logoColor=white)
+![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)
 
 ---
 
@@ -104,10 +115,15 @@ Check out my repositories for more exciting projects 🚀!
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
 
 I am currently diving deeper into:  
-- **JavaFX**  
-- **LibGDX**  
-- **Object-Oriented Programming Concepts**  
+- **JavaFX** ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF9A00.svg?style=flat-square&logo=java&logoColor=white)  
+- **LibGDX** ![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)  
+- **Object-Oriented Programming Concepts** ![OOP](https://img.shields.io/badge/OOP-%2300A86B.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
 ---
+
+## 📬 Connect with Me:
+[![GitHub Profile](https://img.shields.io/badge/GitHub-hasan--mehedii-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan-mehedii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ⭐ **Feel free to explore my profile and connect with me!** 😊  
