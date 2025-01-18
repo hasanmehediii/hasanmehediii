@@ -118,12 +118,8 @@ Check out my repositories for more exciting projects 🚀!
 
 I am currently diving deeper into:  
 - **JavaFX** ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF9A00.svg?style=flat-square&logo=java&logoColor=white)  
-- **LibGDX** ![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)  
-- **Object-Oriented Programming Concepts** ![OOP](https://img.shields.io/badge/OOP-%2300A86B.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
+- **LibGDX** ![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)   
 
 ---
 
-## 📬 Connect with Me:
-[![GitHub Profile](https://img.shields.io/badge/GitHub-hasan--mehedii-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan-mehedii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-Contact-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+Feel free to ask or contribute anything...
