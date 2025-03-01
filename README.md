@@ -66,6 +66,9 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   </a>
+  <a href="https://developer.android.com/studio">
+    <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" />
+  </a>
   <a href="https://isocpp.org/">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
   </a>
