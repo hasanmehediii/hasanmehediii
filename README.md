@@ -107,18 +107,12 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 Check out my repositories for more exciting projects 🚀!  
 [![My GitHub Repos](https://img.shields.io/badge/My_Repositories-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan-mehedii?tab=repositories)
 
-### 🔹 Current Projects:
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FF9A00.svg?style=flat-square&logo=java&logoColor=white)
-![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)
-
----
 
 ## 📚 Learning Journey:
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
 
 I am currently diving deeper into:  
-- **JavaFX** ![JavaFX](https://img.shields.io/badge/JavaFX-%23FF9A00.svg?style=flat-square&logo=java&logoColor=white)  
-- **LibGDX** ![LibGDX](https://img.shields.io/badge/LibGDX-%23E34F26.svg?style=flat-square&logo=libgdx&logoColor=white)   
+- **Mobile Application Development** ![Mobile](https://img.shields.io/badge/Mobile_Development-%2300C853.svg?style=flat-square&logo=android&logoColor=white)
 
 ---
 
