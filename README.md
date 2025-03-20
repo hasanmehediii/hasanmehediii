@@ -63,13 +63,13 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
   </a>
   <a href="https://openjfx.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/JavaFX_Logo.png" alt="JavaFX" width="48" height="48"/>
+    <img src="https://i.imgur.com/Loz9yVs.png" alt="JavaFX" width="48" height="48"/>
   </a>
   <a href="https://libgdx.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/LibGDX-logo.svg" alt="LibGDX" width="48" height="48"/>
+    <img src="https://i.imgur.com/J3jL3X9.png" alt="LibGDX" width="48" height="48"/>
   </a>
   <a href="https://www.libsdl.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/SDL_logo.svg" alt="SDL2" width="48" height="48"/>
+    <img src="https://i.imgur.com/Nh4Nq6N.png" alt="SDL2" width="48" height="48"/>
   </a>
   <a href="https://www.pygame.org/">
     <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" alt="Pygame" width="48" height="48"/>
