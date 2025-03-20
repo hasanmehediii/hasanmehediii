@@ -62,17 +62,17 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
   </a>
-  <a href="https://openjfx.io/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/JavaFX_Logo.png" alt="JavaFX" width="48" height="48"/>
+   <a href="https://openjfx.io/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/JavaFX_Logo.png" alt="JavaFX" width="48" height="48"/>
   </a>
   <a href="https://libgdx.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/LibGDX_Logo.svg" alt="LibGDX" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/LibGDX.svg" alt="LibGDX" width="48" height="48"/>
   </a>
   <a href="https://www.libsdl.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/2b/SDL_Logo.svg" alt="SDL2" width="48" height="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Simple_DirectMedia_Layer_logo.svg" alt="SDL2" width="48" height="48"/>
   </a>
   <a href="https://www.pygame.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygame_logo.svg" alt="Pygame" width="48" height="48"/>
+    <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" alt="Pygame" width="48" height="48"/>
   </a>
   <a href="https://kotlinlang.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
