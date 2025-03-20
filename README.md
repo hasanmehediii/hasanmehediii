@@ -41,39 +41,34 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ## ⚒️ Languages and Tools:
 
 <p align="center">
+  <a href="https://flutter.dev/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
+  </a>
   <a href="https://www.oracle.com/java/">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" alt="Linux" />
+  <a href="https://www.postgresql.org/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
   </a>
-  <a href="https://www.pygame.org/">
-    <img src="https://www.pygame.org/docs/_images/pygame_logo.png" alt="Pygame" width="48" height="48" style="border-radius:50%;" />
-  </a>
-  <a href="https://libsdl.org/">
-    <img src="https://img.icons8.com/color/48/000000/open-source.png" alt="SDL2" />
-  </a>
-  <a href="https://libgdx.com/">
-    <img src="https://raw.githubusercontent.com/libgdx/libgdx/master/tests/gdx-tests-android/assets/data/badlogic.jpg" alt="LibGDX" width="48" height="48" style="border-radius:50%;" />
-  </a>
-    <a><img src="https://img.shields.io/badge/JavaFX-2C3E50?style=for-the-badge&logo=Java&logoColor=white" alt="JavaFX" /></a>
-  <a href="https://html.com/">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <a href="https://www.mysql.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
   </a>
   <a href="https://developer.android.com/studio">
-    <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio" />
+    <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
   </a>
   <a href="https://isocpp.org/">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
+  </a>
+  <a href="https://html.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
   </a>
 </p>
-
 
 ---
 
