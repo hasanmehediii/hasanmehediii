@@ -62,14 +62,14 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
   </a>
-  <a href="https://openjfx.io/">
-    <img src="https://i.imgur.com/Loz9yVs.png" alt="JavaFX" width="48" height="48"/>
+   <a href="https://openjfx.io/">
+    <img src="https://img.shields.io/badge/JavaFX-1E82CD?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX"/>
   </a>
   <a href="https://libgdx.com/">
-    <img src="https://i.imgur.com/J3jL3X9.png" alt="LibGDX" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/LibGDX-ED1C24?style=for-the-badge&logo=libgdx&logoColor=white" alt="LibGDX"/>
   </a>
   <a href="https://www.libsdl.org/">
-    <img src="https://i.imgur.com/Nh4Nq6N.png" alt="SDL2" width="48" height="48"/>
+    <img src="https://img.shields.io/badge/SDL2-0033A0?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2"/>
   </a>
   <a href="https://www.pygame.org/">
     <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" alt="Pygame" width="48" height="48"/>
