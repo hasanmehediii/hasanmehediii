@@ -2,16 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&duration=4000&pause=&center=true&width=700&height=70&lines=Hi%2C+it's+Mehedi+Hasan+%F0%9F%98%8A" alt="Typing SVG"/>
 </h2>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Internet Bard ChatGPT GIF" width="400"/>
-</p>
+<div align="center">
 
 🎓 **Undergraduate Student**  
 I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
 
 🌟 **Passionate Learner**  
-I'm driven by curiosity to explore and innovate in **Game Development**, **GUI Applications**, and building impactful projects in **Java** and **Python**.
+I'm driven by curiosity to explore and innovate in **Game Development**, **GUI Applications**, and building impactful projects in **Java** and **Python**.  
+
+</div>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="Internet Bard ChatGPT GIF" width="400"/>
+</p>
 
 ---
 
