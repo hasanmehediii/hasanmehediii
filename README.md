@@ -45,7 +45,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ---
 
 
-## ⚒️ Languages and Tools:
+## ⚒️ Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 <p align="center">
   <a href="https://flutter.dev/">
