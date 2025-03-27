@@ -83,8 +83,9 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ---
 
 ## 🌱 About Me:
-- 🔭 **Currently Exploring**:  
-![Mobile](https://img.shields.io/badge/Mobile_Development-%2300C853.svg?style=flat-square&logo=android&logoColor=white)
+- 🔭 **Currently Exploring**:
+  1. Application development (Native + Cross Platform)
+  2. GUI Applications 
 
 ---
 
