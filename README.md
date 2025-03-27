@@ -84,11 +84,7 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 ## 🌱 About Me:
 - 🔭 **Currently Exploring**:  
-  ![Game Development](https://img.shields.io/badge/Game_Development-%230000ff.svg?style=flat-square)  
-  ![GUI Applications](https://img.shields.io/badge/GUI_Applications-%230000ff.svg?style=flat-square)
-
-- ⚡ **Fun Fact**:  
-  I love gaming! Imagine the thrill of playing a game made by **me**! 🎮✨
+  **Mobile Application Development** ![Mobile](https://img.shields.io/badge/Mobile_Development-%2300C853.svg?style=flat-square&logo=android&logoColor=white)
 
 ---
 
@@ -115,9 +111,6 @@ Check out my repositories for more exciting projects 🚀!
 
 ## 📚 Learning Journey:
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
-
-I am currently diving deeper into:  
-- **Mobile Application Development** ![Mobile](https://img.shields.io/badge/Mobile_Development-%2300C853.svg?style=flat-square&logo=android&logoColor=white)
 
 ---
 
