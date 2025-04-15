@@ -100,17 +100,11 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="Mehedi's GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements:
-[![GitHub followers](https://img.shields.io/github/followers/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii)
-[![GitHub Stars](https://img.shields.io/github/stars/hasan-mehedii?style=flat-square)](https://github.com/hasan-mehedii?tab=stars)
-
----
 
 ## 🛠️ Projects:
 Check out my repositories for more exciting projects 🚀!  
