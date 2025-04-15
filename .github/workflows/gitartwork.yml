@@ -13,4 +13,4 @@
             user_name: Mehedi
             # Text on contribution graph 
             text: Mehedi
-       - uses: jasineri/simple-push-action@v1
+       - uses: Mehedi/simple-push-action@v1
