@@ -5,7 +5,7 @@ I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** a
 <br/>
 <div align="center">
 
-![Mehedi](gitartwork.svg)
+![Mehedi](gitartwork_mehedi.svg)
 
 </div>
 
