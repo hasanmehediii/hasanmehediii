@@ -5,7 +5,7 @@ I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** a
 <br/>
 <div align="center">
 
-![Mehedi](mehedi_gitartwork_animated.svg)
+![Mehedi](gitartwork.svg)
 
 </div>
 
