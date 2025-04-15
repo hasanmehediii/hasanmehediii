@@ -1,14 +1,19 @@
+<h1 align="center">Hi There, I'm Mehedi Hasan 👋</h1>
+
+<h3 align="center">🎓 **Undergraduate Student**  <br>
+I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**. </h3>
+<br/>
+<div align="center">
+
+![Mehedi](gitartwork.svg)
+
+</div>
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&size=35&duration=4000&pause=&center=true&width=700&height=70&lines=Hi%2C+it's+Mehedi+Hasan+%F0%9F%98%8A" alt="Typing SVG"/>
 </h2>
 
 <div align="center">
-
-🎓 **Undergraduate Student**  
-I'm currently pursuing my degree in **Computer Science and Engineering (CSE)** at the **University of Dhaka**.
-
-🌟 **Passionate Learner**  
-I'm driven by curiosity to explore and innovate in **Game Development**, **GUI Applications**, and building impactful projects in **Java** and **Python**.  
 
 </div>
 
