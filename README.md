@@ -99,7 +99,6 @@ I'm driven by curiosity to explore and innovate in **Game Development**, **GUI A
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="Mehedi's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
