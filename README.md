@@ -1,12 +1,14 @@
 <h1 align="center">Hi There, I'm Mehedi Hasan 👋</h1>
 
 <h3 align="center">🎓 Undergraduate Student  <br>
-I'm currently pursuing my degree in Computer Science and Engineering (CSE) at the **University of Dhaka. </h3>
-<br/>
+I'm currently pursuing my degree in Computer Science and Engineering (CSE) at the <b>University of Dhaka</b>.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Learner+and+Problem+Solver;Flutter+Enthusiast;Java+and+Python+Coder;Let's+connect+and+grow+together!">
+</p>
+
 <div align="center">
-
-![Mehedi](gitartwork.svg)
-
+  <img src="gitartwork.svg" alt="Mehedi Hasan GitArt" />
 </div>
 
 ---
@@ -15,96 +17,73 @@ I'm currently pursuing my degree in Computer Science and Engineering (CSE) at th
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-hasan-146a77307" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100066649462473">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 1" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100027011960450">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook 2" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2" />
   </a>
   <a href="https://x.com/MehediHasa47803">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
   </a>
   <a href="https://instagram.com/meh._.edii">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meh._.edii" height="40" width="40" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.youtube.com/@MHmeHeDi_22">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
 ---
 
-
-## ⚒️ Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+## ⚒️ Languages and Tools:
 
 <p align="center">
-  <a href="https://flutter.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="48" height="48"/>
-  </a>
-  <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48"/>
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
-  </a>
-  <a href="https://developer.android.com/studio">
-    <img src="https://img.icons8.com/color/48/000000/android-studio.png" alt="Android Studio"/>
-  </a>
-  <a href="https://isocpp.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="48" height="48"/>
-  </a>
-   <a href="https://openjfx.io/">
-    <img src="https://img.shields.io/badge/JavaFX-1E82CD?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX"/>
-  </a>
-  <a href="https://libgdx.com/">
-    <img src="https://img.shields.io/badge/LibGDX-ED1C24?style=for-the-badge&logo=libgdx&logoColor=white" alt="LibGDX"/>
-  </a>
-  <a href="https://www.libsdl.org/">
-    <img src="https://img.shields.io/badge/SDL2-0033A0?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2"/>
-  </a>
-  <a href="https://www.pygame.org/">
-    <img src="https://www.pygame.org/docs/_static/pygame_tiny.png" alt="Pygame" width="48" height="48"/>
-  </a>
-  <a href="https://kotlinlang.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,java,python,cpp,c,mysql,androidstudio,kotlin,github,git,html,css,javascript,figma" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaFX-1E82CD?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX" />
+  <img src="https://img.shields.io/badge/LibGDX-ED1C24?style=for-the-badge&logo=libgdx&logoColor=white" alt="LibGDX" />
+  <img src="https://img.shields.io/badge/SDL2-0033A0?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2" />
+  <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
 </p>
-
 
 ---
 
 ## 🌱 About Me:
+
 - 🔭 **Currently Exploring**:
-  1. Application development (Native + Cross Platform)
-  2. GUI Applications 
+  - Application Development (Native + Cross Platform)
+  - GUI Applications
+  - Real-world Problem Solving with Code
+- 🌟 **Fun Fact**: I love blending creativity with technology!
 
 ---
 
 ## 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-mehedii&theme=radical" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-
 ## 🛠️ Projects:
-Check out my repositories for more exciting projects 🚀!  
-[![My GitHub Repos](https://img.shields.io/badge/My_Repositories-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/hasan-mehedii?tab=repositories)
 
+Check out my repositories for more exciting projects 🚀  
+[![My GitHub Repos](https://img.shields.io/badge/My_Repositories-Click_Here-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)](https://github.com/hasan-mehedii?tab=repositories)
+
+---
 
 ## 📚 Learning Journey:
+
 > “The more I learn, the more I realize how much I don’t know.” – Albert Einstein  
 
 ---
 
-Feel free to ask or contribute anything...
+⭐ **Let's collaborate and learn together!** Feel free to reach out or contribute!  
