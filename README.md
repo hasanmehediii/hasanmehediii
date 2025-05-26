@@ -3,10 +3,6 @@
 <h3 align="center">🎓 Undergraduate Student  <br>
 I'm currently pursuing my degree in Computer Science and Engineering (CSE) at the <b>University of Dhaka</b>.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Learner+and+Problem+Solver;Flutter+Enthusiast;Java+and+Python+Coder;Let's+connect+and+grow+together!">
-</p>
-
 <div align="center">
   <img src="gitartwork.svg" alt="Mehedi Hasan GitArt" />
 </div>
