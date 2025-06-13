@@ -57,15 +57,6 @@ I'm currently pursuing my degree in Computer Science and Engineering (CSE) at th
 
 ---
 
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasan-mehedii&theme=radical" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-mehedii&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 ## 🛠️ Projects:
 
