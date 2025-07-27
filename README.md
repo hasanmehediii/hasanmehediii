@@ -76,6 +76,8 @@ I am a dedicated Computer Science and Engineering student at the University of D
 #### Also I have made projects on JavaFX, LibGDX, SDL, Pygame
 
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&locale=en" alt="hasan-mehedii" /></p>
+---
 
 ## Featured Projects
 
