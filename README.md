@@ -65,7 +65,8 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle Icon" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -76,7 +77,7 @@ I am a dedicated Computer Science and Engineering student at the University of D
 #### Also I have made projects on JavaFX, LibGDX, SDL, Pygame
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasan-mehedii&show_icons=true&locale=en" alt="hasan-mehedii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanmehediii&show_icons=true&locale=en" alt="hasanmehediii" /></p>
 ---
 
 ## Featured Projects
