@@ -34,24 +34,42 @@ I'm currently pursuing my degree in Computer Science and Engineering (CSE) at th
 
 ---
 
-## ⚒️ Languages and Tools:
+## ⚒️ Skills & Tools
 
+### 🖥️ Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,python,cpp,c,mysql,androidstudio,kotlin,github,git,html,css,javascript,figma" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaFX-1E82CD?style=for-the-badge&logo=openjfx&logoColor=white" alt="JavaFX" />
-  <img src="https://img.shields.io/badge/LibGDX-ED1C24?style=for-the-badge&logo=libgdx&logoColor=white" alt="LibGDX" />
-  <img src="https://img.shields.io/badge/SDL2-0033A0?style=for-the-badge&logo=sdl&logoColor=white" alt="SDL2" />
-  <img src="https://img.shields.io/badge/PyGame-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,js" />
 </p>
 
+### 🌐 Frontend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+</p>
+
+### ⚙️ Backend Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,postgres" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
+
+Also I have made projects on JavaFX, LibGDX, SDL, Pygame
 ---
+
 
 ## 🌱 About Me:
 
 - 🔭 **Currently Exploring**:
   - Application Development (Native + Cross Platform)
-  - GUI Applications
+  - Web Applications
   - Real-world Problem Solving with Code
 - 🌟 **Fun Fact**: I love blending creativity with technology!
 
