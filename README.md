@@ -11,6 +11,16 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ---
 
+## 🌱 About Me:
+
+- 🔭 **Currently Exploring**:
+  - Application Development (Native + Cross Platform)
+  - Web Applications
+  - Real-world Problem Solving with Code
+- 🌟 **Fun Fact**: I love blending creativity with technology!
+
+---
+
 ## 🌐 Connect With Me:
 
 <p align="center">
@@ -64,26 +74,24 @@ I am a dedicated Computer Science and Engineering student at the University of D
 </p>
 
 #### Also I have made projects on JavaFX, LibGDX, SDL, Pygame
----
-
-
-## 🌱 About Me:
-
-- 🔭 **Currently Exploring**:
-  - Application Development (Native + Cross Platform)
-  - Web Applications
-  - Real-world Problem Solving with Code
-- 🌟 **Fun Fact**: I love blending creativity with technology!
 
 ---
 
+## Featured Projects
 
-## 🛠️ Projects:
+Explore my work on [GitHub](https://github.com/hasan-mehedii?tab=repositories).
 
-Check out my repositories for more exciting projects 🚀  
-[![My GitHub Repos](https://img.shields.io/badge/My_Repositories-Click_Here-informational?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a)](https://github.com/hasan-mehedii?tab=repositories)
+- **Real-Time Chat Application** (Flutter, Firebase)  
+  Developed a cross-platform messaging app with user authentication, real-time messaging, and cloud storage integration.
+  
+- **Language Learning App** (Flutter, FastAPI, MongoDB)  
+  Developed a simple user friendly language learning app with interactive lessons and exams.
+  
+- **Plagiarism Checker** (React Js, FastAPI)  
+  Check plagiarism between files (running).
 
 ---
+
 
 ## 📚 Learning Journey:
 
