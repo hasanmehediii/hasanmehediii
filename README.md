@@ -37,31 +37,31 @@ I'm currently pursuing my degree in Computer Science and Engineering (CSE) at th
 ## ⚒️ Skills & Tools
 
 ### 🖥️ Programming Languages
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,kotlin,js" />
 </p>
 
 ### 🌐 Frontend Development
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### ⚙️ Backend Development
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,postgres" />
 </p>
 
 ### 🛠️ Tools & Platforms
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=linux,git,github" />
 </p>
 
-Also I have made projects on JavaFX, LibGDX, SDL, Pygame
+#### Also I have made projects on JavaFX, LibGDX, SDL, Pygame
 ---
 
 
