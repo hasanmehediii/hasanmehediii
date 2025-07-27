@@ -1,7 +1,9 @@
-<h1 align="center">Hi There, I'm Mehedi Hasan 👋</h1>
+# Mehedi Hasan
 
-<h3 align="center">🎓 Undergraduate Student  <br>
-I'm currently pursuing my degree in Computer Science and Engineering (CSE) at the <b>University of Dhaka</b>.</h3>
+**Undergraduate Student in Computer Science and Engineering**  
+University of Dhaka
+
+I am a dedicated Computer Science and Engineering student at the University of Dhaka, passionate about developing innovative software solutions and leveraging technology to address real-world challenges. My expertise spans programming, full-stack development, and database management, with a focus on creating efficient and scalable applications.
 
 <div align="center">
   <img src="gitartwork.svg" alt="Mehedi Hasan GitArt" />
