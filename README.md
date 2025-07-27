@@ -81,7 +81,7 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ## Featured Projects
 
-Explore my work on [GitHub](https://github.com/hasan-mehedii?tab=repositories).
+Explore my work on [GitHub](https://github.com/hasanmehediii?tab=repositories).
 
 - **Real-Time Chat Application** (Flutter, Firebase)  
   Developed a cross-platform messaging app with user authentication, real-time messaging, and cloud storage integration.
