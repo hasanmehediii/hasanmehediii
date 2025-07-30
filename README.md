@@ -55,12 +55,12 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ### 🌐 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,flutter" />
 </p>
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django" />
 </p>
 
 ### 🗄️ Databases
