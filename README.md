@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:ff5e62&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
-</p>
-
 # Mehedi Hasan
 
 **Undergraduate Student in Computer Science and Engineering**  
@@ -100,11 +96,6 @@ Explore my work on [GitHub](https://github.com/hasanmehediii?tab=repositories).
   Check plagiarism between files (running).
 
 ---
-
-<img src="https://github.com/hasanmehediii/hasanmehediii/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76D3F&width=435&lines=Hi%2C+I'm+Mehedi+Hasan;Welcome+to+my+profile!;CSE+Student+%40+University+of+Dhaka;Let's+build+something+great+✨" alt="Typing SVG" />
-
 
 ## 📚 Learning Journey:
 
