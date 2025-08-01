@@ -101,6 +101,8 @@ Explore my work on [GitHub](https://github.com/hasanmehediii?tab=repositories).
 
 ---
 
+<img src="https://github.com/hasanmehediii/hasanmehediii/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
 
 ## 📚 Learning Journey:
 
