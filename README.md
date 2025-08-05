@@ -21,26 +21,23 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ---
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
+  <a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100066649462473">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1" />
+  <a href="https://x.com/MehediHasa47803" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100027011960450">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2" />
-  </a>
-  <a href="https://x.com/MehediHasa47803">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/meh._.edii">
+  <a href="https://instagram.com/meh._.edii" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/@MHmeHeDi_22">
+  <a href="https://www.youtube.com/@MHmeHeDi_22" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100066649462473" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1" />
   </a>
 </p>
 
