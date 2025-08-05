@@ -68,7 +68,7 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=linux,android,git,github,postman" />
 </p>
 
 #### Also I have made projects on JavaFX, LibGDX, SDL, Pygame
