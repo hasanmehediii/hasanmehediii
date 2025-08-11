@@ -60,8 +60,7 @@ I am a dedicated Computer Science and Engineering student at the University of D
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle Icon" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,oracle" />
 </p>
 
 ### 🛠️ Tools & Platforms
