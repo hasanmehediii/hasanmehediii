@@ -96,9 +96,8 @@ I am a dedicated Computer Science and Engineering student at the University of D
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanmehediii&show_icons=true&locale=en&theme=dark" alt="hasanmehediii"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmehediii&layout=compact&locale=en&theme=dark" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasanmehediii&show_icons=true&locale=en&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmehediii&layout=compact&locale=en&theme=dark" />
 </p>
 
 ---
