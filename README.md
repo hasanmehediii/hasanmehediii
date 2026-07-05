@@ -1,205 +1,87 @@
 <div align="center">
 
-# Mehedi Hasan
+```
+███╗   ███╗███████╗██╗  ██╗███████╗██████╗ ██╗    ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+████╗ ████║██╔════╝██║  ██║██╔════╝██╔══██╗██║    ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+██╔████╔██║█████╗  ███████║█████╗  ██║  ██║██║    ███████║███████║███████╗███████║██╔██╗ ██║
+██║╚██╔╝██║██╔══╝  ██╔══██║██╔══╝  ██║  ██║██║    ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
+██║ ╚═╝ ██║███████╗██║  ██║███████╗██████╔╝██║    ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
+╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
 
-### Computer Science & Engineering Undergraduate • University of Dhaka
-
-<img src="gitartwork.svg" width="100%" alt="Git Artwork"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;Machine+Learning+Enthusiast;Computer+Vision+Explorer;Always+Building+Something+New"/>
-
-<br><br>
-
-<a href="https://github.com/hasanmehediii">
-<img src="https://skillicons.dev/icons?i=github" height="42"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-</a>
-
-<a href="https://x.com/MehediHasa47803">
-<img src="https://cdn.simpleicons.org/x" height="40"/>
-</a>
-
-<a href="https://instagram.com/meh._.edii">
-<img src="https://cdn.simpleicons.org/instagram" height="40"/>
-</a>
-
-<a href="https://www.youtube.com/@MHmeHeDi_22">
-<img src="https://cdn.simpleicons.org/youtube" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100066649462473">
-<img src="https://cdn.simpleicons.org/facebook" height="40"/>
-</a>
+```
 
 </div>
 
 ---
 
-# About Me
+```bash
+visitor@github:~$ cat ./about_me.txt
 
-```yaml
-name: Mehedi Hasan
-
-education:
-  University of Dhaka
-  Computer Science & Engineering
-
-interests:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Computer Vision
-  - Mobile Development
-  - Distributed Systems
-
-currently_learning:
-  - Kubernetes
-  - Microservices
-  - Cloud Architecture
-  - Large Language Models
-
-currently_building:
-  - Modern Web Applications
-  - Flutter Applications
-  - AI Powered Software
+  Name    : Mehedi Hasan
+  Handle  : hasanmehediii
+  Uni     : University of Dhaka — CSE
+  Focus   : Agentic AI · Backend Engineering · Full-Stack Dev
+  Status  : ▰▰▰▰▰▰▰▰▱▱  Building every day
+  Collab  : OPEN — hackathons, research, side-projects ✅
 ```
 
 ---
 
-# Tech Stack
+## `> tech.stack`
 
-### Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,dart,kotlin"/>
-
-</p>
-
-### Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter"/>
-
-</p>
-
-### Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi"/>
-
-</p>
-
-### Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis"/>
-
-</p>
-
-### DevOps & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx,postman,vscode"/>
-
-</p>
-
-### Also Experienced With
-
-<p align="center">
-
-JavaFX • LibGDX • SDL • Pygame
-
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go" /><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" /><img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,spring" /><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />&nbsp;<img src="https://skillicons.dev/icons?i=redis" /><img src="https://skillicons.dev/icons?i=docker,git,postman" />&nbsp;<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase" />
 
 ---
 
-# Current Focus
+## `> connect.init()`
 
-<table align="center">
+<div align="center">
 
-<tr>
+<a href="https://github.com/hasanmehediii"><img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://x.com/MehediHasa47803"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" title="X"/></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/@MHmeHeDi_22"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45" title="YouTube"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/meh._.edii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" title="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100066649462473"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="45" title="Facebook"/></a>
 
-<td align="center" width="33%">
-
-### Learning
-
-System Design
-
-Cloud Computing
-
-Machine Learning
-
-</td>
-
-<td align="center" width="33%">
-
-### Building
-
-Full Stack Apps
-
-Flutter Apps
-
-REST APIs
-
-</td>
-
-<td align="center" width="33%">
-
-### Exploring
-
-Computer Vision
-
-LLMs
-
-DevOps
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# GitHub Analytics
+## `> github.stats`
 
-<p align="center">
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hasanmehediii&show_icons=true&theme=github_dark)  [![GitHub Streak](https://streak-stats.demolab.com?user=hasanmehediii&theme=burnt-neon)](https://git.io/streak-stats)
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasanmehediii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=hasanmehediii&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanmehediii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# Development Philosophy
+## `> systems.architected`
 
-```cpp
-while (alive)
-{
-    Learn();
+Currently in the design/build phase — planned with production concerns (cost controls, async job queues, human-in-the-loop correction) from day one.
 
-    Build();
+| System | Description | Stack | Status |
+|---|---|---|---|
+| **⬡ AgriMate** | Offline-capable farmer assistant for Bangladeshi agriculture | `Flutter` `FastAPI` `LangGraph` `Hybrid RAG` | In design |
+| **⬡ DocuMind** | Document intelligence, human-in-the-loop correction | `LangGraph` `pgvector` `Async workers` | In design |
+| **⬡ MatchMind** | Football match video analysis via agentic pipelines | `LangGraph` `Computer Vision` `Job queue` | In design |
+| **⬡ NutriSastho AI** | Health & nutrition guidance agent for Bangladesh-specific data | `RAG pipeline` `FastAPI` `pgvector` | In design |
 
-    Improve();
+<sub>Also sketched out from a project ideation round: **Chikitshak AI** (health triage) · **Bhumi Sahayak** (land records) · **Bonna Prohari** (flood response) · **Krishi Buddhi** (crop advisory) — concepts, not yet built.</sub>
 
-    Share();
+---
+
+## `> currently.working_on`
+
+```python
+current = {
+    "learning"   : ["System Design", "Cloud Architecture", "Kubernetes"],
+    "building"   : ["AgriMate", "DocuMind", "MatchMind"],
+    "exploring"  : "Computer Vision & LLM agent orchestration",
+    "planning"   : "A backend-development YouTube series",
+    "goal_2026"  : "Ship a production agentic system solving a real Bangladesh-context problem",
 }
 ```
 
@@ -207,10 +89,29 @@ while (alive)
 
 <div align="center">
 
-### Thanks for stopping by 👋
+<img src="gitartwork.svg" width="100%" alt="Git Artwork"/>
 
-*"The best way to learn is by building."*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+## `> contact.init()`
 
+```python
+contact = {
+    "github" : "github.com/hasanmehediii",
+    "uni"    : "University of Dhaka — CSE",
+    "status" : "Open to hackathons, research, and collabs 🟢",
+}
+
+print("Let's build something that actually matters.")
+```
+
+<div align="center">
+
+
+</div>
+
+---
+
+<div align="center">
+  <sub><code>// building agentic systems for Bangladesh-scale problems · one commit at a time</code></sub>
 </div>
