@@ -1,29 +1,9 @@
-<div align="center">
-
 # Hi, I'm Mehedi Hasan 👋
 
-### CSE @ University of Dhaka · Backend Engineering · Agentic AI · Full-Stack Development
-
-*Building reliable software, exploring intelligent systems, and learning how things work under the hood.*
-
-<br>
-
-<a href="https://github.com/hasanmehediii">
-  <img src="https://img.shields.io/badge/GitHub-hasanmehediii-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mehedi_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/MehediHasa47803">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/@MHmeHeDi_22">
-  <img src="https://img.shields.io/badge/YouTube-MHmeHeDi__22-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
-
 ---
+I'm a 4th-year Computer Science & Engineering student at the University of Dhaka, interested in building reliable backend systems and practical AI-powered applications.
+
+My technical interests revolve around backend architecture, LLM agents, retrieval-augmented generation (RAG), distributed systems, and production-oriented AI engineering. I enjoy understanding systems beyond just making them work — how they scale, fail, communicate, recover, and perform in production.
 
 ## `> whoami`
 
@@ -46,11 +26,6 @@ open_to:
   - Open-Source Contributions
 ```
 
-I'm a **4th-year Computer Science & Engineering student at the University of Dhaka**, interested in building reliable backend systems and practical AI-powered applications.
-
-My technical interests revolve around **backend architecture, LLM agents, retrieval-augmented generation (RAG), distributed systems, and production-oriented AI engineering**.
-
-I enjoy understanding systems beyond just making them work — how they **scale, fail, communicate, recover, and perform in production**.
 
 ---
 
@@ -158,18 +133,6 @@ current_focus = {
 </td>
 </tr>
 </table>
-
----
-
-## `> github.stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=hasanmehediii&show_icons=true&theme=github_dark&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=hasanmehediii&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 ---
 
