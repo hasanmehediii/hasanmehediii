@@ -1,6 +1,5 @@
 # Hi, I'm Mehedi Hasan 👋
 
----
 I'm a 4th-year Computer Science & Engineering student at the University of Dhaka, interested in building reliable backend systems and practical AI-powered applications.
 
 My technical interests revolve around backend architecture, LLM agents, retrieval-augmented generation (RAG), distributed systems, and production-oriented AI engineering. I enjoy understanding systems beyond just making them work — how they scale, fail, communicate, recover, and perform in production.
@@ -25,9 +24,6 @@ open_to:
   - Hackathons
   - Open-Source Contributions
 ```
-
-
----
 
 ## `> tech.stack`
 
@@ -65,8 +61,6 @@ open_to:
 
 `LangGraph` · `RAG` · `Hybrid Retrieval` · `pgvector` · `LLM Agents` · `Async Processing` · `Computer Vision`
 
----
-
 ## `> currently.learning`
 
 ```python
@@ -91,9 +85,6 @@ current_focus = {
     ],
 }
 ```
-
----
-
 ## `> engineering.interests`
 
 <table>
@@ -134,8 +125,6 @@ current_focus = {
 </tr>
 </table>
 
----
-
 ## `> contribution.art`
 
 <div align="center">
@@ -144,7 +133,6 @@ current_focus = {
 
 </div>
 
----
 
 ## `> beyond.code`
 
@@ -160,8 +148,6 @@ const philosophy = {
     share:   "Teach what you learn.",
 };
 ```
-
----
 
 ## `> connect.init()`
 
