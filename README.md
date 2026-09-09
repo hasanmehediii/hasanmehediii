@@ -1,117 +1,238 @@
 <div align="center">
 
-```
-███╗   ███╗███████╗██╗  ██╗███████╗██████╗ ██╗    ██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
-████╗ ████║██╔════╝██║  ██║██╔════╝██╔══██╗██║    ██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
-██╔████╔██║█████╗  ███████║█████╗  ██║  ██║██║    ███████║███████║███████╗███████║██╔██╗ ██║
-██║╚██╔╝██║██╔══╝  ██╔══██║██╔══╝  ██║  ██║██║    ██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
-██║ ╚═╝ ██║███████╗██║  ██║███████╗██████╔╝██║    ██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+# Hi, I'm Mehedi Hasan 👋
 
-```
+### CSE @ University of Dhaka · Backend Engineering · Agentic AI · Full-Stack Development
+
+*Building reliable software, exploring intelligent systems, and learning how things work under the hood.*
+
+<br>
+
+<a href="https://github.com/hasanmehediii">
+  <img src="https://img.shields.io/badge/GitHub-hasanmehediii-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
+  <img src="https://img.shields.io/badge/LinkedIn-Mehedi_Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/MehediHasa47803">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@MHmeHeDi_22">
+  <img src="https://img.shields.io/badge/YouTube-MHmeHeDi__22-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-```bash
-visitor@github:~$ cat ./about_me.txt
+## `> whoami`
 
-  Name    : Mehedi Hasan
-  Handle  : hasanmehediii
-  Uni     : University of Dhaka — CSE
-  Focus   : Agentic AI · Backend Engineering · Full-Stack Dev
-  Status  : ▰▰▰▰▰▰▰▰▱▱  Building every day
-  Collab  : OPEN — hackathons, research, side-projects ✅
+```yaml
+name: Mehedi Hasan
+university: University of Dhaka
+degree: B.Sc. in Computer Science & Engineering
+year: 4th Year
+
+focus:
+  - Backend Engineering
+  - Agentic AI & LLM Systems
+  - Full-Stack Development
+  - System Design
+
+open_to:
+  - Software Engineering Opportunities
+  - Research Collaborations
+  - Hackathons
+  - Open-Source Contributions
 ```
+
+I'm a **4th-year Computer Science & Engineering student at the University of Dhaka**, interested in building reliable backend systems and practical AI-powered applications.
+
+My technical interests revolve around **backend architecture, LLM agents, retrieval-augmented generation (RAG), distributed systems, and production-oriented AI engineering**.
+
+I enjoy understanding systems beyond just making them work — how they **scale, fail, communicate, recover, and perform in production**.
 
 ---
 
 ## `> tech.stack`
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go" /><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs" /><img src="https://skillicons.dev/icons?i=fastapi,express,nodejs,spring" /><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />&nbsp;<img src="https://skillicons.dev/icons?i=redis" /><img src="https://skillicons.dev/icons?i=docker,git,postman" />&nbsp;<img src="https://skillicons.dev/icons?i=flutter,firebase,supabase" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Tools & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase,supabase" />
+</p>
+
+### AI & Engineering
+
+`LangGraph` · `RAG` · `Hybrid Retrieval` · `pgvector` · `LLM Agents` · `Async Processing` · `Computer Vision`
 
 ---
 
-## `> connect.init()`
+## `> currently.learning`
 
-<div align="center">
+```python
+current_focus = {
+    "backend": [
+        "System Design",
+        "Distributed Systems",
+        "Scalable Backend Architecture",
+    ],
 
-<a href="https://github.com/hasanmehediii"><img src="https://skillicons.dev/icons?i=github" height="45" title="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" title="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://x.com/MehediHasa47803"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="45" title="X"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@MHmeHeDi_22"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="45" title="YouTube"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/meh._.edii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" title="Instagram"/></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100066649462473"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="45" title="Facebook"/></a>
+    "ai": [
+        "Agentic AI",
+        "LLM Orchestration",
+        "RAG Systems",
+        "Computer Vision",
+    ],
 
-</div>
+    "infrastructure": [
+        "Docker",
+        "Kubernetes",
+        "Cloud Architecture",
+    ],
+}
+```
+
+---
+
+## `> engineering.interests`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚙️ Backend Engineering
+
+- API Design
+- Database Architecture
+- Distributed Systems
+- Async Processing
+- Scalable Architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI Engineering
+
+- Agentic Workflows
+- LLM Orchestration
+- RAG Systems
+- Hybrid Retrieval
+- Computer Vision
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Infrastructure
+
+- Docker
+- Kubernetes
+- Cloud Architecture
+- Deployment
+- Observability
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## `> github.stats`
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hasanmehediii&show_icons=true&theme=github_dark)  [![GitHub Streak](https://streak-stats.demolab.com?user=hasanmehediii&theme=burnt-neon)](https://git.io/streak-stats)
+
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=hasanmehediii&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=hasanmehediii&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## `> systems.architected`
+## `> contribution.art`
 
-Currently in the design/build phase — planned with production concerns (cost controls, async job queues, human-in-the-loop correction) from day one.
+<div align="center">
 
-| System | Description | Stack | Status |
-|---|---|---|---|
-| **⬡ AgriMate** | Offline-capable farmer assistant for Bangladeshi agriculture | `Flutter` `FastAPI` `LangGraph` `Hybrid RAG` | In design |
-| **⬡ DocuMind** | Document intelligence, human-in-the-loop correction | `LangGraph` `pgvector` `Async workers` | In design |
-| **⬡ MatchMind** | Football match video analysis via agentic pipelines | `LangGraph` `Computer Vision` `Job queue` | In design |
-| **⬡ NutriSastho AI** | Health & nutrition guidance agent for Bangladesh-specific data | `RAG pipeline` `FastAPI` `pgvector` | In design |
+<img src="gitartwork.svg" width="100%" alt="Mehedi Hasan GitHub Contribution Artwork" />
 
-<sub>Also sketched out from a project ideation round: **Chikitshak AI** (health triage) · **Bhumi Sahayak** (land records) · **Bonna Prohari** (flood response) · **Krishi Buddhi** (crop advisory) — concepts, not yet built.</sub>
+</div>
 
 ---
 
-## `> currently.working_on`
+## `> beyond.code`
 
-```python
-current = {
-    "learning"   : ["System Design", "Cloud Architecture", "Kubernetes"],
-    "building"   : ["AgriMate", "DocuMind", "MatchMind"],
-    "exploring"  : "Computer Vision & LLM agent orchestration",
-    "planning"   : "A backend-development YouTube series",
-    "goal_2026"  : "Ship a production agentic system solving a real Bangladesh-context problem",
-}
+When I'm not writing code, I'm usually learning about **system architecture, AI engineering, and how production software is designed at scale**.
+
+I'm also interested in sharing what I learn through technical content, particularly around **backend development and software engineering**.
+
+```javascript
+const philosophy = {
+    learn:   "Understand the fundamentals.",
+    build:   "Turn knowledge into working systems.",
+    improve: "Measure, refactor, and iterate.",
+    share:   "Teach what you learn.",
+};
 ```
 
 ---
 
+## `> connect.init()`
+
+I'm open to **software engineering opportunities, research collaborations, hackathons, open-source contributions, and conversations around backend systems and AI engineering**.
+
 <div align="center">
 
-<img src="gitartwork.svg" width="100%" alt="Git Artwork"/>
+<a href="https://github.com/hasanmehediii">
+  <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" title="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/MehediHasa47803">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="42" title="X"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/@MHmeHeDi_22">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" title="YouTube"/>
+</a>
 
 </div>
 
-## `> contact.init()`
-
-```python
-contact = {
-    "github" : "github.com/hasanmehediii",
-    "uni"    : "University of Dhaka — CSE",
-    "status" : "Open to hackathons, research, and collabs 🟢",
-}
-
-print("Let's build something that actually matters.")
-```
+<br>
 
 <div align="center">
 
+<sub>
+  <code>// learn deeply · build thoughtfully · improve continuously</code>
+</sub>
 
-</div>
-
----
-
-<div align="center">
-  <sub><code>// building agentic systems for Bangladesh-scale problems · one commit at a time</code></sub>
 </div>
