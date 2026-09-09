@@ -1,4 +1,4 @@
-# Hi, I'm Mehedi Hasan 👋
+# Mehedi Hasan
 
 I'm a 4th-year Computer Science & Engineering student at the University of Dhaka, interested in building reliable backend systems and practical AI-powered applications.
 
