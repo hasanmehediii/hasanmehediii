@@ -46,26 +46,44 @@ A configurable proxy with in-memory, Redis, and LRU caching, automatic fallback 
 | Asynchronous processing and distributed systems | RAG and hybrid retrieval |
 | Scalable services and observability | Practical AI applications and computer vision |
 
-## Stack
+## Skills & technologies
 
 <p>
   <img src="https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-334155?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-334155?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/FastAPI-334155?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-334155?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+<p>
   <img src="https://img.shields.io/badge/React-334155?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-334155?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-334155?style=flat&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Docker-334155?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<details>
-<summary>View the full toolkit</summary>
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Go, Java, C, C++, SQL, Dart, Kotlin |
+| **Backend** | FastAPI, Flask, Node.js, Express, Gin, Spring Boot |
+| **Frontend** | React, Next.js, HTML, CSS, Tailwind CSS, Zustand, TanStack Query |
+| **Mobile & IoT** | Flutter, Firebase, ESP32, Arduino, ultrasonic sensors |
+| **Databases & data access** | PostgreSQL, MySQL, MongoDB, Redis, SQLite, SQLAlchemy, Alembic, Mongoose |
+| **AI & retrieval** | LangGraph, LLM agents, RAG, hybrid retrieval, pgvector, MCP, FastMCP, ChromaDB |
+| **AI integrations** | Gemini, OpenRouter, Ollama |
+| **Infrastructure & deployment** | Docker, Docker Compose, Nginx, CoreDNS, GitHub Actions, Vercel |
+| **Developer tools** | Git, GitHub, Postman, Supabase, Monaco Editor |
+| **Code quality** | ESLint, Bandit, Radon, Pylint, Flake8, Go testing |
 
-- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Go
-- **Backend:** FastAPI, Node.js, Express, Spring
-- **Frontend & mobile:** React, Next.js, HTML, CSS, Tailwind CSS, Flutter
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
-- **AI & retrieval:** LangGraph, LLM agents, RAG, hybrid retrieval, pgvector
-- **Tools & platforms:** Docker, Git, GitHub, Postman, Firebase, Supabase
+<details>
+<summary>Engineering practices</summary>
+
+- **API development:** REST APIs, request validation, JWT authentication, role-based access, and rate limiting.
+- **Background & live workflows:** Asynchronous jobs, WebSockets, Redis pub/sub, notifications, and scheduled tasks.
+- **Data & performance:** Database migrations, cache strategies, TTL and LRU eviction, retries, and fallback handling.
+- **Software design:** Strategy, Decorator, Command, Observer, Repository, and Facade patterns.
+- **Networking:** DNS filtering, HTTP/HTTPS proxies, domain matching, and activity monitoring.
 
 </details>
 
