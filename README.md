@@ -1,187 +1,84 @@
-# Mehedi Hasan
+﻿# Mehedi Hasan
 
-I'm a 4th-year Computer Science & Engineering student at the University of Dhaka, interested in building reliable backend systems and practical AI-powered applications.
+**Backend & AI Engineering**  /  CSE, University of Dhaka
 
-My technical interests revolve around backend architecture, LLM agents, retrieval-augmented generation (RAG), distributed systems, and production-oriented AI engineering. I enjoy understanding systems beyond just making them work — how they scale, fail, communicate, recover, and perform in production.
+> Building reliable services. Exploring practical AI. Understanding systems deeply.
 
-## `> whoami`
+[LinkedIn](https://www.linkedin.com/in/mehedi-hasan-146a77307/) &nbsp; / &nbsp; [GitHub](https://github.com/hasanmehediii) &nbsp; / &nbsp; [X](https://x.com/MehediHasa47803) &nbsp; / &nbsp; [YouTube](https://www.youtube.com/@MHmeHeDi_22)
 
-```yaml
-name: Mehedi Hasan
-university: University of Dhaka
-degree: B.Sc. in Computer Science & Engineering
-year: 4th Year
-
-focus:
-  - Backend Engineering
-  - Agentic AI & LLM Systems
-  - Full-Stack Development
-  - System Design
-
-open_to:
-  - Software Engineering Opportunities
-  - Research Collaborations
-  - Hackathons
-  - Open-Source Contributions
-```
-
-## `> tech.stack`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,go" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring" />
-</p>
-
-### Frontend & Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,firebase,supabase" />
-</p>
-
-### AI & Engineering
-
-`LangGraph` · `RAG` · `Hybrid Retrieval` · `pgvector` · `LLM Agents` · `Async Processing` · `Computer Vision`
-
-## `> currently.learning`
-
-```python
-current_focus = {
-    "backend": [
-        "System Design",
-        "Distributed Systems",
-        "Scalable Backend Architecture",
-    ],
-
-    "ai": [
-        "Agentic AI",
-        "LLM Orchestration",
-        "RAG Systems",
-        "Computer Vision",
-    ],
-
-    "infrastructure": [
-        "Docker",
-        "Kubernetes",
-        "Cloud Architecture",
-    ],
-}
-```
-## `> engineering.interests`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ⚙️ Backend Engineering
-
-- API Design
-- Database Architecture
-- Distributed Systems
-- Async Processing
-- Scalable Architecture
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 AI Engineering
-
-- Agentic Workflows
-- LLM Orchestration
-- RAG Systems
-- Hybrid Retrieval
-- Computer Vision
-
-</td>
-<td width="33%" valign="top">
-
-### ☁️ Infrastructure
-
-- Docker
-- Kubernetes
-- Cloud Architecture
-- Deployment
-- Observability
-
-</td>
-</tr>
-</table>
-
-## `> contribution.art`
-
-<div align="center">
-
-<img src="gitartwork.svg" width="100%" alt="Mehedi Hasan GitHub Contribution Artwork" />
-
-</div>
-
-
-## `> beyond.code`
-
-When I'm not writing code, I'm usually learning about **system architecture, AI engineering, and how production software is designed at scale**.
-
-I'm also interested in sharing what I learn through technical content, particularly around **backend development and software engineering**.
-
-```javascript
-const philosophy = {
-    learn:   "Understand the fundamentals.",
-    build:   "Turn knowledge into working systems.",
-    improve: "Measure, refactor, and iterate.",
-    share:   "Teach what you learn.",
-};
-```
-
-## `> connect.init()`
-
-I'm open to **software engineering opportunities, research collaborations, hackathons, open-source contributions, and conversations around backend systems and AI engineering**.
-
-<div align="center">
-
-<a href="https://github.com/hasanmehediii">
-  <img src="https://skillicons.dev/icons?i=github" height="42" title="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/mehedi-hasan-146a77307/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" title="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/MehediHasa47803">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="42" title="X"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.youtube.com/@MHmeHeDi_22">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" title="YouTube"/>
-</a>
-
-</div>
+**Portfolios:** [hasanmehedi.vercel.app](https://hasanmehedi.vercel.app) · [hasanmehediii.github.io](https://hasanmehediii.github.io)
 
 <br>
 
-<div align="center">
+I'm a fourth-year **Computer Science & Engineering** student at the **University of Dhaka**. I'm interested in backend architecture, distributed systems, and AI-powered applications, with a focus on how software scales, handles failures, and performs in production.
 
-<sub>
-  <code>// learn deeply · build thoughtfully · improve continuously</code>
-</sub>
+## Selected projects
 
-</div>
+### CodeLens
+
+A code review platform with background analysis jobs, language-specific analyzers, and a configurable pipeline for style, security, complexity, and optional AI feedback. Findings appear in a Monaco editor alongside inline comments and developer progress dashboards.
+
+`Next.js` `FastAPI` `SQLAlchemy` `Monaco Editor` &nbsp; · &nbsp; [Live demo →](https://codelens-mehedi.vercel.app)
+
+### LabGuard
+
+A self-hosted lab network monitor combining DNS filtering and an HTTP/HTTPS proxy for managed devices. Go services publish activity through Redis to a live instructor dashboard, with student enrollment, domain controls, and reporting.
+
+`Go` `CoreDNS` `Redis` `PostgreSQL` `Next.js` `Docker` &nbsp; · &nbsp; [Project overview →](https://hasanmehedi.vercel.app/#projects)
+
+### CleanBD
+
+A waste management platform for citizens, collectors, and municipal administrators, covering complaints, household pickups, and collection tracking. An ESP32 sensor integration provides on-demand dustbin fill readings through an interactive map.
+
+`Next.js` `Express` `TypeScript` `PostgreSQL` `ESP32` &nbsp; · &nbsp; [Live demo →](https://cleanbd.vercel.app)
+
+### CacheCaught
+
+A configurable proxy with in-memory, Redis, and LRU caching, automatic fallback when Redis is unavailable, and request retries. A Flask dashboard exposes cache statistics, request logs, invalidation controls, and domain filtering.
+
+`Python` `Flask` `Redis` &nbsp; · &nbsp; [Source →](https://github.com/hasanmehediii/CSE-3111-Project)
+
+## Focus
+
+| Backend systems | Applied AI |
+| :--- | :--- |
+| API design and database architecture | LLM agents and workflow orchestration |
+| Asynchronous processing and distributed systems | RAG and hybrid retrieval |
+| Scalable services and observability | Practical AI applications and computer vision |
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-334155?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-334155?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-334155?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-334155?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-334155?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-334155?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<details>
+<summary>View the full toolkit</summary>
+
+- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, Go
+- **Backend:** FastAPI, Node.js, Express, Spring
+- **Frontend & mobile:** React, Next.js, HTML, CSS, Tailwind CSS, Flutter
+- **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+- **AI & retrieval:** LangGraph, LLM agents, RAG, hybrid retrieval, pgvector
+- **Tools & platforms:** Docker, Git, GitHub, Postman, Firebase, Supabase
+
+</details>
+
+## On my learning desk
+
+- **Architecture** — System design, distributed systems, and scalable backends.
+- **AI systems** — Agent orchestration, retrieval pipelines, and computer vision.
+- **Infrastructure** — Docker, Kubernetes, and cloud architecture.
+
+I also enjoy sharing what I learn about backend development and software engineering through technical content.
+
+---
+
+**Have something in mind?** I'm open to software engineering opportunities, research collaborations, hackathons, and open-source contributions.
+
+[Connect on LinkedIn →](https://www.linkedin.com/in/mehedi-hasan-146a77307/)
